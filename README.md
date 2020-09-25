@@ -14,3 +14,10 @@ To install in a virtual environment in your current project:
 python3 -m venv .env
 source .env/bin/activate
 pip3 install adafruit-circuitpython-tsl2591`
+
+
+https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/i2c-devices
+
+http://www.piddlerintheroot.com/lux-sensor-tsl2561/
+
+http://www.cqrobot.wiki/index.php/TSL2591X_Light_Sensor
