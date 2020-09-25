@@ -1,4 +1,4 @@
-#Installing from PyPI
+# Installing from PyPI
 
 On supported GNU/Linux systems like the Raspberry Pi, you can install the driver locally from PyPI. To install for current user:
 
